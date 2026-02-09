@@ -1,4 +1,4 @@
-
+package Patterns;
 
 // Enter no of rows(half diamond height)
 // 5
